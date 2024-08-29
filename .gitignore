@@ -1,0 +1,24 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Ignorar arquivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de configuração do ambiente
+.env
+venv/
+*.env
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
+
+# Ignorar arquivos de banco de dados SQLite (se aplicável)
+*.sqlite3
