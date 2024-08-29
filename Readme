@@ -1,0 +1,25 @@
+Enunciado do Projeto
+Título: Função de Exibição de Mensagem
+
+Descrição:
+Desenvolva um programa em Python que define uma função simples para exibir uma mensagem fornecida como argumento. O programa deve demonstrar o uso da função chamando-a para exibir a mensagem "Olá, Mundo!".
+
+Requisitos:
+
+Definir uma função exibir_mensagem que aceita um argumento de texto (mensagem).
+A função deve imprimir a mensagem recebida como argumento.
+Demonstrar o uso da função chamando-a com a mensagem "Olá, Mundo!".
+
+# Função de Exibição de Mensagem
+
+## Descrição
+Este projeto implementa uma função em Python que exibe uma mensagem fornecida como argumento. O programa inclui uma demonstração simples, onde a função é utilizada para exibir a mensagem "Olá, Mundo!".
+
+## Funcionalidades
+- Definição de uma função que aceita uma mensagem de texto como argumento e a exibe.
+- Demonstração do uso da função com a mensagem "Olá, Mundo!".
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/exibir-mensagem.git
